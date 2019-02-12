@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kohmuada.primeblendind.com/sitemap.xml
